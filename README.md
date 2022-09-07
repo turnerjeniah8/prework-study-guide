@@ -1,6 +1,7 @@
-# <Prework Notes>
+# <Study Guide Webpage>
 
-## This study guide will provide quick, understandable, and accessible information to bootcamp students who are enrolled. This contains notes on HTML, CSS, git, and JavaScript. The motivation for this webpage is to make these notes easy to find for students who may need a quick reminder. I built this project because I am a student who sometimes needs a quick reminder on something. Instead of searching around for it, I wanted it to be in its own desinated place. I learned that creating a webpage takes a lot of critical thinking. Patience is one of the best things to have when it comes to fixing bugs and looking throughout your code to make sure that you are actually doing things right. I also learned the importance of saving EVERYTHING>
+## Description
+This study guide will provide quick, understandable, and accessible information to bootcamp students who are enrolled. This contains notes on HTML, CSS, git, and JavaScript. The motivation for this webpage is to make these notes easy to find for students who may need a quick reminder. I built this project because I am a student who sometimes needs a quick reminder on something. Instead of searching around for it, I wanted it to be in its own desinated place. I learned that creating a webpage takes a lot of critical thinking. Patience is one of the best things to have when it comes to fixing bugs and looking throughout your code to make sure that you are actually doing things right. I also learned the importance of saving EVERYTHING>
 
 ## Table of Contents (Optional)
 
@@ -26,11 +27,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
