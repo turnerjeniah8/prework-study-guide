@@ -1,11 +1,11 @@
 # <Prework Study Guide Webpage >
 
 ## Description
-This study guide will provide quick, understandable, and accessible information to bootcamp students who are enrolled. This contains notes on HTML, CSS, git, and JavaScript. The motivation for this webpage is to make these notes easy to find for students who may need a quick reminder. I built this project because I am a student who sometimes needs a quick reminder on something. Instead of searching around for it, I wanted it to be in its own desinated place. I learned that creating a webpage takes a lot of critical thinking. Patience is one of the best things to have when it comes to fixing bugs and looking throughout your code to make sure that you are actually doing things right. I also learned the importance of saving EVERYTHING>
+  This study guide will provide quick, understandable, and accessible information to bootcamp students who are enrolled. This contains notes on HTML, CSS, git, and JavaScript. The motivation for this webpage is to make these notes easy to find for students who may need a quick reminder. I built this project because I am a student who sometimes needs a quick reminder on something. Instead of searching around for it, I wanted it to be in its own desinated place. I learned that creating a webpage takes a lot of critical thinking. Patience is one of the best things to have when it comes to fixing bugs and looking throughout your code to make sure that you are actually doing things right. I also learned the importance of saving EVERYTHING>
 
 ## Table of Contents 
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+  If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
